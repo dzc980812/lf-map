@@ -3,7 +3,9 @@
 	"version": "1.2.0",
 	"description": "lf-map 集成各种插件进行封装",
 	"main": "index.js",
-	"dependencies": {},
+	"dependencies": {
+		"dot-prop": "5.1.1"
+	},
 	"devDependencies": {
 		"@commitlint/cli": "^9.1.1",
 		"@commitlint/config-conventional": "^9.1.1",
