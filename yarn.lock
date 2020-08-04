@@ -859,19 +859,19 @@ detect-newline@^3.1.0:
   resolved "https://registry.npm.taobao.org/detect-newline/download/detect-newline-3.1.0.tgz#576f5dfc63ae1a192ff192d8ad3af6308991b651"
   integrity sha1-V29d/GOuGhkv8ZLYrTr2MImRtlE=
 
-dot-prop@5.1.1:
-  version "5.1.1"
-  resolved "https://registry.npm.taobao.org/dot-prop/download/dot-prop-5.1.1.tgz#85783b39f2a54e04ae1981489a0ef2b9719bbd7d"
-  integrity sha1-hXg7OfKlTgSuGYFImg7yuXGbvX0=
-  dependencies:
-    is-obj "^2.0.0"
-
 dot-prop@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npm.taobao.org/dot-prop/download/dot-prop-3.0.0.tgz#1b708af094a49c9a0e7dbcad790aba539dac1177"
   integrity sha1-G3CK8JSknJoOfbyteQq6U52sEXc=
   dependencies:
     is-obj "^1.0.0"
+
+dot-prop@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.npm.taobao.org/dot-prop/download/dot-prop-5.2.0.tgz#c34ecc29556dc45f1f4c22697b6f4904e0cc4fcb"
+  integrity sha1-w07MKVVtxF8fTCJpe29JBODMT8s=
+  dependencies:
+    is-obj "^2.0.0"
 
 dotgitignore@^2.1.0:
   version "2.1.0"
