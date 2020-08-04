@@ -2,9 +2,9 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [1.1.0](https://github.com/qiqihaobenben/commitizen-git/compare/v1.0.1...v1.1.0) (2020-07-26)
+## 1.2.0 (2020-08-04)
 
 
 ### Features
 
-* **other:** 测试一下新功能提交 ([536abb9](https://github.com/qiqihaobenben/commitizen-git/commit/536abb95d489ae14c8261c5636a7ca6076f099cc))
+* **deps:** 增加了git commit验证规则 ([11ea523](https://github.com/dzc980812/lf-map/commit/11ea52345cd15282f285f58bb66b3e2b0cdf2f2b))
