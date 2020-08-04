@@ -1,0 +1,28 @@
+{
+	"name": "lf-map",
+	"version": "1.1.0",
+	"description": "介绍 lf-map",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"@commitlint/cli": "^9.1.1",
+		"@commitlint/config-conventional": "^9.1.1",
+		"cz-conventional-changelog": "^3.2.0",
+		"cz-customizable": "^6.2.1",
+		"husky": "^4.2.5",
+		"standard-version": "^8.0.2"
+	},
+	"scripts": {
+		"release": "standard-version",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git"
+	},
+	"license": "MIT",
+	"config": {
+		"commitizen": {
+			"path": "./node_modules/cz-customizable"
+		}
+	}
+}
