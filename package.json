@@ -1,7 +1,7 @@
 {
 	"name": "lf-map",
 	"version": "1.2.0",
-	"description": "介绍 lf-map",
+	"description": "lf-map 集成各种插件进行封装",
 	"main": "index.js",
 	"dependencies": {},
 	"devDependencies": {
