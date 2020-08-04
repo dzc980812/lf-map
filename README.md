@@ -12,7 +12,7 @@
 [npm地址](https://www.npmjs.com/package/lf-map-npm)  
 [https://www.npmjs.com/package/lf-map-npm](https://www.npmjs.com/package/lf-map-npm)
 ```
-https://www.npmjs.com/package/lf-map-npm
+https://www.npmjs.com/package/lf-map-npm  
 ```
 
 ## 掘金地址
