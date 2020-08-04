@@ -1,7 +1,6 @@
 # lf-map-npm
 
-## 打 npm 包
-
+## 打npm包
 ```
 yarn lib
 ```
