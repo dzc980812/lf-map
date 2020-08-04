@@ -1,4 +1,19 @@
-#### 集成 leaflet 各种地图常用插件进行封装 做到开箱使用
+# lf-map-npm
 
+## Project setup
+```
+yarn install
+```
 
-使用git commit可以更好的使用提交规范
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "esnext",
     "module": "esnext",
     "strict": true,
     "jsx": "preserve",
@@ -17,7 +17,9 @@
     "paths": {
       "@/*": [
         "src/*"
-      ]
+      ],
+      "pkg/*": ["./packages/*"],
+      "tsc/*": ["./src/*"],
     },
     "lib": [
       "esnext",
@@ -27,13 +29,10 @@
     ]
   },
   "include": [
-    "src/**/*.ts",
-    "src/**/*.tsx",
-    "src/**/*.vue",
-    "tests/**/*.ts",
-    "tests/**/*.tsx"
+    "doc/**/*.ts",
+    "doc/**/*.tsx"
   ],
   "exclude": [
     "node_modules"
-  ]
+  ],
 }
