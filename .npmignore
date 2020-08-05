@@ -8,6 +8,12 @@ babel.config.js
 *.map
 *.html
 
+node_modules/
+.cz-config.js
+CHANGELOG.md
+commitlint.config.js
+husky.config.js
+
 # local env files
 .env.local
 .env.*.local
