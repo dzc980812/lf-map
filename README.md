@@ -1,5 +1,5 @@
 # lf-map-npm
-
+ 
 > 此项目为集成 leaflet 各种功能如热力图 supermap mapbox 等 打包成 npm 包供小伙伴们使用  
 > 目前功能 仅可以简单的渲染 supermap 地图
 
