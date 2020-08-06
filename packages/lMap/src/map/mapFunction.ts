@@ -3,10 +3,10 @@ import { MapConfig } from "../types";
 
 import LeafletMap from "./map";
 
-class MapFactory {
+class MapFunction {
 	static async createMap(config: MapConfig): Promise<Map> {
 		return new LeafletMap(config.content);
 	}
 }
 
-export default MapFactory;
+export default MapFunction;
